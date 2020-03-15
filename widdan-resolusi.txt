@@ -2,3 +2,4 @@ Resolusi Widdan
 
 - Konsisten belajar setiap jam 9 malam.
 - Berusaha selalu mempelajari hal yang baru.
+- Membuat aplikasi CRUD Android.
